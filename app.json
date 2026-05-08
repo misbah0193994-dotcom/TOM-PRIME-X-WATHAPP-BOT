@@ -10,7 +10,7 @@
   ],
   "env": {
     "SESSION_ID": {
-      "description": "Tom prime X session string (e.g. KnightBot!<base64_compressed_data>)",
+      "description": "Tom prime X session string (e.g. Tom!<base64_compressed_data>)",
       "required": false,
       "value": ""
     }
