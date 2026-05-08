@@ -1,6 +1,6 @@
 /**
- * Knight Bot - A WhatsApp Bot
- * Copyright (c) 2024 Professor
+ * ᴛᴏᴍ ᴘʀɪᴍᴇ x - A WhatsApp Bot
+ * Copyright (c) 2026 Professor Tom
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the MIT License.
